@@ -16,4 +16,11 @@ Paste the copied text onto you executor, and execute that. Premium should now lo
 If premium still fails to load, click on the "RESET HWID" button. Then try executing again.<br>
 Please do not share your key with anyone else, as you could get blacklisted from using the hub.<br><br>
 
+### No Premium Badge in the Discord Server
+If you are a premium user and you do not have the discord premium role like the others do, simply visit a bot commands channel in the discord and type `!givebuyer`.<br>
+The command will give you the premium role. Please note that to get the role you will need to link your discord account to the Eclipse Hub website, so visit the website and click on the "LINK DISCORD" button and link your discord account.
+
+### Cannot get into the Eclipse Hub Discord Server
+To get in the discord server, you will need to execute the script. In the home page, there should be a discord icon at the top. Click that button to copy your discord invite to the server. Please note that you cannot invite anyone else to the server. If they want to join, they will have to join through the script.
+
 More issues and ways to fix them will be comming soon.
