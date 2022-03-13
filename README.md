@@ -3,6 +3,7 @@ Hello! This webpage was created so you can figure out your eclipse hub issues he
 If none of these solutions seem to work for you, please contact £thanoj1 for assistance.
 
 ## Tips for all issues
+Most issues fix themselves after waiting for a few minutes or after retrying.<br>
 The hub is only supported by Krnl and Synapse. No other executor supports it as of now.<br>
 "Supports" does not mean that the hub won't run, so please make sure you are using the right executor.<br>
 Always check the discord and the "scripts" section of the hub to see which games are not patched, as the hub won't load if the script is patched on that game.<br><br>
