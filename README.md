@@ -18,6 +18,7 @@ If none of these work, try again later, or wait patiently till it loads.
 This is a common issue. Please make sure that the game you are joining is not patched, or the hub might not load.<br>
 If you are a premium user and you do not have the premium perks, try visiting the [Eclipse Hub Website](https://eclipsehub.xyz).<br>
 Sign in and look for a button called "GEN SCRIPT". Click that button. The button will copy a loadstring with your key to your clipboard.<br>
+If you do not have your key in your loadstring, then refresh the website and try again.<br>
 Paste the copied text onto you executor, and execute that. Premium should now load.<br>
 If premium still fails to load, click on the "RESET HWID" button. Then try executing again.<br>
 If premium still fails to load, then go into your executor's "workspace" folder and delete the "Eclipse" folder. Then after that, reset your HWID through the website, and then try again.<br>
