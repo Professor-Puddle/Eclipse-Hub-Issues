@@ -35,6 +35,7 @@ To get in the discord server, you will need to execute the script. In the home p
 This is not an Eclipse Hub Issue but I figured, since it's a common issue, to put a fix for it here as well.<br>
 To fix the issue, use the shortcut `Windows Key + R` and type `%localappdata%` and press "Ok". Locate a folder called "Roblox". If there is a folder, delete that folder.<br>
 If there isn't a folder, then use the shortcut again and type `%appdata%` and press "Ok". Locate a folder called "Roblox". If there is a folder, delete that folder.<br>
-Then re install roblox and it should fix the problem.<br><br>
+Then re install roblox and it should fix the problem.<br>
+If none of these work, then just wait 30 minutes and the issue will fix itself.<br><br>
 
 More issues and ways to fix them will be comming soon.
