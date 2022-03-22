@@ -12,6 +12,7 @@ Always check the discord and the "scripts" section of the hub to see which games
 What you would have to do is try rejoining.<br>
 This should fix the issue. If not then it should be your internet connection. Check your internet and try again.<br>
 Check the Eclipse discord server for any announcements, the hub might not be working at the moment, or the game script might be patched.<br>
+If the hub still fails to load, then go into your executor's "workspace" folder and delete the "Eclipse" folder. Then re execute and try again.<br>
 If none of these work, try again later, or wait patiently till it loads.
 
 ### 2. Premium Not Loading
@@ -21,7 +22,7 @@ Sign in and look for a button called "GEN SCRIPT". Click that button. The button
 If you do not have your key in your loadstring, then refresh the website and try again.<br>
 Paste the copied text onto you executor, and execute that. Premium should now load.<br>
 If premium still fails to load, click on the "RESET HWID" button. Then try executing again.<br>
-If premium still fails to load, then go into your executor's "workspace" folder and delete the "Eclipse" folder. Then after that, reset your HWID through the website, and then try again.<br>
+If premium still fails to load, please contact [£thanoj1#3304](https://discord.com/users/534231910180716565) through the discord server.<br>
 Please do not share your key with anyone else, as you could get blacklisted from using the hub.
 
 ### 3. No Premium Badge in the Discord Server
