@@ -13,7 +13,7 @@ If you still can't fix your issue, please join the discord server and state your
 What you would have to do is try rejoining.<br>
 This should fix the issue. If not then it should be your internet connection. Check your internet and try again.<br>
 Check the Eclipse discord server for any announcements, the hub might not be working at the moment, or the game script might be patched.<br>
-If the hub still fails to load, then go into your executor's "workspace" folder and delete the "Eclipse" folder. Then re execute and try again.<br>
+If the hub still fails to load, then go into your executor's "workspace" folder and delete the "eclipsehubdata.json". Then re execute and try again.<br>
 If none of these work, try again later, or wait patiently till it loads.
 
 ### 2. Premium Not Loading
