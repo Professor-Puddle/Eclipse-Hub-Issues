@@ -8,6 +8,7 @@ Please be patient till these issues are completely fixed.<br>
 What you can do is, join the discord server (when possible) and look at the members. You will see three bots. One of them is called "Eclipse Bot Experimental".<br>
 If the bot is online, then try executing the hub, it should work. If the bot is offline, then the hub will not execute. Please wait till the bot is back online.
 
+
 ## Tips for all issues
 Most issues fix themselves after waiting for a few minutes or after retrying.<br>
 The hub is only supported by Krnl and Synapse. No other executor supports it as of now.<br>
