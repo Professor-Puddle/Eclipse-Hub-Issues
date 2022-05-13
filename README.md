@@ -37,7 +37,8 @@ If you are a premium user and you do not have the discord premium role like the 
 The command will give you the premium role. Please note that to get the role you will need to link your discord account to the Eclipse Hub website, so visit the website and click on the "LINK DISCORD" button and link your discord account.
 
 ### 4. Cannot join the Eclipse Hub Discord Server
-To get in the discord server, you will need to execute the script. In the home page, there should be a discord icon at the top. Click that button to copy your discord invite to the server. Please note that you cannot invite anyone else to the server. If they want to join, they will have to join through the script.
+To get in the discord server, you will need to execute the script. In the home page, there should be a discord icon at the top. Click that button to copy your discord invite to the server. Please note that you cannot invite anyone else to the server. If they want to join, they will have to join through the script.<br>
+You can also join the discord by visiting the [Eclipse Hub Website](https://eclipsehub.xyz).
 
 ### 5. Roblox error code 268
 This is not an Eclipse Hub Issue but I figured, since it's a common issue, to put a fix for it here as well.<br>
