@@ -21,7 +21,6 @@ If you are a premium user and you do not have the premium perks, try visiting th
 Sign in and look for a button called "GEN SCRIPT". Click that button. The button will copy a loadstring with your key to your clipboard.<br>
 If you do not have your key in your loadstring, then refresh the website and try again.<br>
 Paste the copied text onto you executor, and execute that. Premium should now load.<br>
-If premium still fails to load, click on the "RESET HWID" button. Then try executing again.<br>
 If premium still fails to load, please contact [£thanoj1#3304](https://discord.com/users/534231910180716565) through the discord server.<br>
 Please do not share your key with anyone else, nor try deleting anything, as you could get blacklisted from using the hub.
 
